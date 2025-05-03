@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Facter</string>
+    <string name="sign_out">Sign out</string>
+    <string name="delete_account">Delete account</string>
+    <string name="confirm_delete_chat">Are you sure you want to delete this conversation?</string>
+    <string name="action_cannot_be_undone">This action cannot be undone</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_check_history">No check history, tap the + button to start</string>
+    <string name="user_menu">User menu</string>
+    <string name="start_new_check">Start new check</string>
+    <string name="error_failed_to_fetch_check_history">Failed to fetch check history</string>
+    <string name="ask_try_again">Try again?</string>
+    <string name="try_again">Try again</string>
+    <string name="confirm_sign_out">Do you want to sign out?</string>
+    <string name="confirm_delete_account">Are you sure you want to delete your account?</string>
+    <string name="description_delete_account">All your data will be deleted. This action cannot be undone</string>
+    <string name="deleted">Deleted</string>
+    <string name="error_failed_to_delete_chat">Failed to delete. Please try again</string>
+    <string name="error_failed_to_sync_chat">Failed to sync chat</string>
+    <string name="error_failed_to_get_answer">Failed to get answer</string>
+    <string name="error_failed_to_load_chat">Failed to load chat</string>
+    <string name="go_back">Go back</string>
+    <string name="send">Send</string>
+    <string name="hint_text_field">Is the Earth flat?</string>
+    <string name="from_facter">From Facter</string>
+</resources>

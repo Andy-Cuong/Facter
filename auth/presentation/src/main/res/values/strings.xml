@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_activity_firebase_sign_in">FirebaseSignInActivity</string>
+    <string name="sign_in">Sign in</string>
+    <string name="error_failed_to_login">Failed to log in. Please try again</string>
+    <string name="successfully_logged_in">Successfully logged in</string>
+    <string name="welcome_to_facter">Welcome to Facter, the only AI fact-checker you need</string>
+
+    <string name="default_web_client_id">372200349567-e899hs5gpb37i72nsenthnmupbguao0v.apps.googleusercontent.com</string>
+    <string name="facebook_application_id">644892535068519</string>
+    <string name="facebook_login_protocol_scheme">fb644892535068519</string>
+    <string name="facebook_client_token">9ed237c190cb29e7dcaf9476db4559b6</string>
+</resources>

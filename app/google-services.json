@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "372200349567",
+    "project_id": "facter-by-andyc",
+    "storage_bucket": "facter-by-andyc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372200349567:android:7d7a428569e6e2e44e044a",
+        "android_client_info": {
+          "package_name": "com.andyc.facter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372200349567-vtuugthg7lcbck0fjv0n3r18982sg5r0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andyc.facter",
+            "certificate_hash": "d3134e3066a55af24722b4ff371ec656b74f1b7a"
+          }
+        },
+        {
+          "client_id": "372200349567-e899hs5gpb37i72nsenthnmupbguao0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsWNTYdyGJwNprgNm_H056kIqQmMAdgHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372200349567-e899hs5gpb37i72nsenthnmupbguao0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
